@@ -1,0 +1,11 @@
+{
+  "enabled": true,
+  "latest_version": "1.0.1",
+  "title": "New version 1.0.1 available",
+  "changelog": [
+    "Faster indexing on large folders",
+    "Improved search relevance",
+    "Bug fixes and stability improvements"
+  ],
+  "url": "https://eugeniouglov.github.io/MyPortfolio/browzifile.html"
+}
